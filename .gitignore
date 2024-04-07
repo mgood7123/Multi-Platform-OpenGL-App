@@ -1,0 +1,9 @@
+**/build
+**/out
+**/.cxx
+**/.vs
+**/.idea
+/skia
+/skia_backup
+/.steps_*
+**/.CMAKE_TEMP*
